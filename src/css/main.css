@@ -1,0 +1,43 @@
+.logo {
+    margin-left: 15px;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    margin-left: 15px;
+}
+
+.search-top {
+    margin: auto 5px auto 0;
+}
+
+.menu-top a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-top: 1px lightgrey solid;
+    border-bottom: 1px lightgrey solid;
+    margin: 5px;
+    padding: 10px;
+}
+
+.banner-gallery {
+    max-width: 100%;
+    padding: auto 50px;
+}
+
+.banner-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.banner-item h2 {
+    position: absolute;
+    color: #fff;
+}
